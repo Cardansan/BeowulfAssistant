@@ -1,6 +1,7 @@
 # BeowulfAssistant
 Repositorio para hacer mi propio asistente de voz.
-Ligeramente basado en este tutorial: https://www.youtube.com/watch?v=mETxgn0vH2I
+Ligeramente basado en [este tutorial por 
+Sid's E Classroom](https://www.youtube.com/watch?v=mETxgn0vH2I).
 
 -Comando que sirvió para instalar **pip**: 'sudo apt install python-pip'
 

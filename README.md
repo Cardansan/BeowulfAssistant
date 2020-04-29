@@ -19,5 +19,5 @@ Sid's E Classroom](https://www.youtube.com/watch?v=mETxgn0vH2I).
 - [Automatically connect trusted Bluetooth speaker](https://raspberrypi.stackexchange.com/questions/53408/automatically-connect-trusted-bluetooth-speaker)
 
 ## TODO:
-Añadir los pasos y archivos que se editaron para mejorar la detección del comando.
+Añadir los pasos y archivos que se editaron para mejorar la detección del comando, conectar a bocina bluetooth.
 
